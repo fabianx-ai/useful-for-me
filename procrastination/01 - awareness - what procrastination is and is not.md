@@ -137,15 +137,17 @@ The reason certain tasks do not get done is not that they are hard, not that the
 
 Once this is seen, the apparent mountain dissolves. The task is not the work. The unblocking is the work. And the unblocking is not an act of force but an act of release — removing what makes presence costly, so the pull can happen as naturally as it already happens on tasks the person loves.
 
-This is the foundation. Subsequent papers will work the specifics:
+This is the foundation. The papers that followed worked the specifics:
 
-- **Paper 02** — The judge itself: its structure, how to read it as data, how to disidentify from it
-- **Paper 03** — The moment of almost-pulling: what to do there, how to let the pull occur
-- **Paper 04** — The classes of task benefit-of-all does not reach, and what does reach them
-- **Paper 05** — Patience as the paramita of presence: the art of resting next to a task without forcing
-- **Paper 06** — Measuring in real-world results: what actually changes when this works
-- **Paper 07** — The braided cases: unmixing presence-avoidance from priority, scoping, decision, information, and value-conflict
-- **Paper 08** — The whole: procrastination as a teacher, and what its absence would look like
+- **Paper 02 — Freedom:** The judge as a measurement device that got asked the wrong question, and the operation for returning it to its proper function.
+- **Paper 03 — Focus:** The attentional record's asymmetric sampling, and the rebalancing operation.
+- **Paper 04 — Presence:** The wave-particle reframe — presentation as additive, not subtractive; the particle contains the wave.
+- **Paper 05 — Alignment:** Joy as the indicator of direction; identity as gradient, not state.
+- **Paper 06 — Agency:** Why to-do lists fail computationally and how priority queues with partial view restore agency.
+- **Paper 07 — Flexibility:** Imagination in service of truth — keeping the wave open against premature collapse.
+- **Paper 08 — The Whole:** Procrastination as a misapplied skill, and the recursive operation that integrates the framework.
+
+*Note on this list: the original draft of Paper 01 specified a different set of papers in this section, drafted before any of the subsequent papers existed. The actual emerged series turned out different from those projections — a small premature wave-collapse that Paper 07 and Paper 08 eventually addressed at length. The list above describes what was actually drawn, not what was originally imagined. The original projection has been preserved in the series' working notes.*
 
 For this paper, the claim is narrow and complete:
 
