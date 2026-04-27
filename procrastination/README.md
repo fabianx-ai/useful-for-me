@@ -22,6 +22,8 @@ The papers that follow work out what that something else is, layer by layer. Eac
 
 - **07 — Flexibility:** *imagination in service of truth.* The wave must stay open for the optimal path to emerge. Premature collapse — through forced evaluation or imagination-as-completion — forecloses on the path that would have emerged through wave dynamics. Imagination as compass, action as drawing, truth as what emerges.
 
+- **08 — The Whole:** *the master procrastinator procrastinates procrastination.* Procrastination is not a deficit but a misapplied skill — the skill of delay. Applied recursively (delay the delay), the skill becomes the entry point to the framework that handles released tasks. Nothing is fought; everything is integrated.
+
 ## How to read these
 
 I have decided to organize my thinking as academic papers. Academic papers have a certain structure that is useful for me to compress knowledge. If psychologists find them useful they could become real papers, but they don't need to.
